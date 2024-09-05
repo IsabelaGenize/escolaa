@@ -1,0 +1,289 @@
+.frame-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(90deg, #151618, #1269a7 75%, #1ef0f5);
+    width: 1920px;
+    height: 200px;
+}
+
+a {
+    text-decoration: none; /* Remove sublinhado das âncoras */
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+}
+
+.sobre-ns, .academy, .contato, .clientes {
+    position: absolute;
+    display: inline-block;
+    width: 313px;
+    height: 80px;
+    background-color: transparent; /* Mantém o fundo transparente como antes */
+    color: #fff; /* Cor do texto */
+    font-weight: bold;
+    text-align: center;
+    line-height: 80px; /* Alinhamento vertical do texto */
+}
+
+.sobre-ns {
+    top: 81px;
+    left: calc(50% - 156px);
+}
+
+.academy {
+    top: 81px;
+    left: calc(50% + 223px);
+}
+
+.contato {
+    top: 81px;
+    left: calc(50% + 418px);
+}
+
+.clientes {
+    top: 81px;
+    left: calc(50% + 37px);
+}
+
+.frame-item {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    width: 1920px;
+    height: 880px;
+    object-fit: cover;
+}
+
+.servios {
+    position: absolute;
+    top: 447px;
+    left: 140px;
+    display: inline-block;
+    width: 228px;
+    height: 39px;
+}
+
+.desenvolvimento-de-software {
+    position: absolute;
+    top: 533px;
+    left: 249px;
+    font-size: 48px;
+    font-family: Poppins;
+    color: #151618;
+    display: inline-block;
+    width: 748px;
+    height: 126px;
+}
+
+.sistemas-de-automao {
+    position: absolute;
+    top: 707px;
+    left: 171px;
+    font-size: 32px;
+    font-family: Poppins;
+    display: inline-block;
+    width: 932px;
+    height: 109px;
+}
+
+.logo {
+    position: absolute;
+    top: 0px;
+    left: 35px;
+    border-radius: 43px;
+    width: 303.9px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.rectangle-parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 20px;
+    color: #fff;
+    font-family: Syncopate;
+}
+
+/* frame3 */
+
+.frame-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 1920px;
+    height: 1080px;
+}
+.sobre-ns {
+    position: absolute;
+    top: 149px;
+    left: 977px;
+    display: inline-block;
+    width: 339px;
+    height: 40px;
+}
+.blank-line {
+    margin: 0;
+}
+.a-protech-quality-container1 {
+    width: 100%;
+}
+.a-protech-quality-container {
+    position: absolute;
+    top: 149px;
+    left: calc(50% + 126px);
+    font-size: 20px;
+    font-family: Lora;
+    display: flex;
+    align-items: center;
+    width: 710px;
+    height: 310px;
+}
+.frame-item1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #142533;
+    width: 960px;
+    height: 597px;
+}
+.logo-removebg-preview-3-icon {
+    position: absolute;
+    top: 37px;
+    left: 104px;
+    border-radius: 254.5px;
+    width: 752px;
+    height: 509px;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: 477px;
+    left: 1048px;
+    border-top: 8px solid #142533;
+    box-sizing: border-box;
+    width: 810px;
+    height: 8px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 597px;
+    left: 960px;
+    background-color: #142533;
+    width: 960px;
+    height: 483px;
+}
+.misso {
+    position: absolute;
+    top: 663px;
+    left: 943px;
+    font-weight: 300;
+    color: #1ef0f5;
+    display: inline-block;
+    width: 339px;
+    height: 50px;
+}
+.emprestar-nossa-vasta {
+    position: absolute;
+    top: 760px;
+    left: 1154px;
+    font-size: 20px;
+    font-family: Lora;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 573px;
+    height: 67px;
+}
+.line-div {
+    position: absolute;
+    top: 921px;
+    left: 1083px;
+    border-top: 8px solid #1ef0f5;
+    box-sizing: border-box;
+    width: 715px;
+    height: 8px;
+}
+.viso {
+    position: absolute;
+    top: 662px;
+    left: 0px;
+    font-weight: 300;
+    color: #134f7a;
+    display: inline-block;
+    width: 339px;
+    height: 50px;
+}
+.ser-a-referncia {
+    position: absolute;
+    top: 763px;
+    left: 164px;
+    font-size: 20px;
+    font-family: Lora;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 509px;
+    height: 61px;
+}
+.frame-child2 {
+    position: absolute;
+    top: 921px;
+    left: 100px;
+    border-top: 8px solid #142533;
+    box-sizing: border-box;
+    width: 715px;
+    height: 8px;
+}
+.rectangle-parent1 {
+    width: 100%;
+    position: relative;
+    height: 1080px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+    font-family: Merriweather;
+}
+
+/* frame5 */
+
+.frame-child2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 1920px;
+    height: 379px;
+}
+.rectangle-parent2 {
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    border: 2px solid #000;
+    box-sizing: border-box;
+    height: 379px;
+    overflow: hidden;
+}
+
+/* frame6 */
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh; /* Ajusta a altura para ocupar toda a tela */
+}
+
+.rectangle-div, .rectangle-div1 {
+    flex: 1; /* Ocupa 50% do espaço disponível */
+    height: 100%; /* Garante que as divs tenham 100% da altura da tela */
+}
+
+
